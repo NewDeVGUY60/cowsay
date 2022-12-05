@@ -1,5 +1,5 @@
 const user = {
-    userName:"Nicolas",
+    name:"Nicolas",
     campus:"Wild Code School !",
 };
 
